@@ -1,0 +1,121 @@
+{
+	{
+		"Student_ID": "ST0000",
+		"Name": "John",
+		"Degree": "Fine Art",
+		"Year": "2018",
+		"Courses": 
+		{
+			"Course":
+			
+				{"First Class": "Figure Drawing"
+				 "Second Class": "Art History",
+				  "Third Class": "Economy 101",
+				  "Fouth Class": "Contemporary Practices"
+				}
+			
+		},
+		"Lecturers": 
+		{
+			"Lecturer":
+			
+				{"First Class Lecturer": "Marsh"
+				 "Second Class Lecturer": "Marsh",
+				  "Third Class Lecturer": "Brovlosky",
+				  "Fouth Class Lecturer": "Cartman"
+				}
+			
+		}
+					
+	}
+	{
+		"Student_ID": "ST0001",
+		"Name": "Liz",
+		"Degree": "Business",
+		"Year": "2019",
+		"Courses": 
+		{
+			"Course":
+			
+				{"First Class": "Economy 101"
+				 "Second Class": "Corporate Law",
+				  "Third Class": "Biology 102",
+				  "Fouth Class": "Ethics 101"
+				}
+			
+		},
+		"Lecturers": 
+		{
+			"Lecturer":
+			
+				{"First Class Lecturer": "Brovlosky"
+				 "Second Class Lecturer": "Brovlosky",
+				  "Third Class Lecturer": "McKormick",
+				  "Fouth Class Lecturer": "Cartman"
+				}
+			
+		}
+					
+	}
+	
+	{
+		"Student_ID": "ST0002",
+		"Name": "Jenny",
+		"Degree": "Computer Science",
+		"Year": "2020",
+		"Courses": 
+		{
+			"Course":
+			
+				{"First Class": "OS Design"
+				 "Second Class": "Networks 201",
+				  "Third Class": "Ethics 101",
+				  "Fouth Class": "Economy 101"
+				}
+			
+		},
+		"Lecturers": 
+		{
+			"Lecturer":
+			
+				{"First Class Lecturer": "McKormick"
+				 "Second Class Lecturer": "McKormick",
+				  "Third Class Lecturer": "Cartman",
+				  "Fouth Class Lecturer": "Brovlosky"
+				}
+			
+		}
+					
+	}
+	
+	{
+		"Student_ID": "ST0003",
+		"Name": "Adbullah",
+		"Degree": "Fashion",
+		"Year": "2019",
+		"Courses": 
+		{
+			"Course":
+			
+				{"First Class": "Textile 201"
+				 "Second Class": "Design History",
+				  "Third Class": "Figure Drawing",
+				  "Fouth Class": "Economy 101"
+				}
+			
+		},
+		"Lecturers": 
+		{
+			"Lecturer":
+			
+				{"First Class Lecturer": "Marsh"
+				 "Second Class Lecturer": "Cartman",
+				  "Third Class Lecturer": "Marsh",
+				  "Fouth Class Lecturer": "Brovlosky"
+				}
+			
+		}
+					
+	}
+}	
+		

@@ -1,0 +1,17 @@
+﻿Student_ID,Name,Degree,StartYear,Course,Lecturer
+ST0000,John,Fine Art,2018,Figure Drawing,Marsh
+ST0000,John,Fine Art,2018,Art History,Marsh
+ST0000,John,Fine Art,2018,Economy 101,Brovlosky
+ST0000,John,Fine Art,2018,Contemporary Practices,Cartman
+ST0001,Liz,Business,2019,Economy 101,Brovlosky
+ST0001,Liz,Business,2019,Corporate Law,Brovlosky
+ST0001,Liz,Business,2019,Biology 102,McKormick
+ST0001,Liz,Business,2019,Ethics 101,Cartman
+ST0002,Jenny,Computer Science,2020,OS Design,McKormick
+ST0002,Jenny,Computer Science,2020,Networks 102,McKormick
+ST0002,Jenny,Computer Science,2020,Ethics 101,Cartman
+ST0002,Jenny,Computer Science,2020,Economy 101,Brovlosky
+ST0003,Adbullah,Fashion,2019,Textile 201,Marsh
+ST0003,Adbullah,Fashion,2019,Design History,Cartman
+ST0003,Adbullah,Fashion,2019,Figure Drawing,Marsh
+ST0003,Adbullah,Fashion,2019,Economy 101,Brovlosky
